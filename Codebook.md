@@ -77,8 +77,9 @@ fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag. (Note the ‘f’ to
 indicate frequency domain signals).*
 
 *These signals were used to estimate variables of the feature vector for
-each pattern: * *‘-XYZ’ is used to denote 3-axial signals in the X, Y
-and Z directions.*
+each pattern:*
+
+*‘-XYZ’ is used to denote 3-axial signals in the X, Y and Z directions.*
 
 The set of variables that were estimated from these signals and included
 in this project are mean(): Mean value std(): Standard deviation
@@ -127,4 +128,6 @@ The complete list of variables is below
 **Mean**
 
 The value of the mean of the feature for the activity performed by the
-subject Double value based on the mean calculation
+subject
+
+Double value based on the mean calculation
